@@ -1,0 +1,20 @@
+[
+  {
+      "question": "What is the output of this function?\n\n```c\nint main() { printf(\"Hello, World!\\n\"); return 0; }```",
+      "options": ["Hello, World!", "Error", "42", "null"],
+      "answer": 1,
+      "question_style": "multiple_choice"
+  },
+  {
+      "question": "What does the `*` character represent in C?",
+      "options": ["Pointer", "Array", "Multiplication", "Function"],
+      "answer": 1,
+      "question_style": "multiple_choice"
+  },
+  {
+      "question": "What is the correct syntax for declaring an integer array of size 10?",
+      "options": ["int arr[10];", "int arr = 10;", "int arr[] = 10;", "array int[10];"],
+      "answer": 1,
+      "question_style": "multiple_choice"
+  }
+]
